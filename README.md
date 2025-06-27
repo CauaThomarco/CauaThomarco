@@ -16,7 +16,7 @@
 
 ### 📊 Estatísticas Gerais
 
-- 🔢 **Repositórios públicos**: 2 (e crescendo!)
+- 🔢 **Repositórios públicos**: 2
 - 📈 **Contribuições nos últimos 12 meses**: 21
 - 📂 **Projetos principais**:
   - [FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) – site de Denuncia de Queimadas usando HTML, CSS, JS e JSON Server
@@ -57,8 +57,8 @@
 
 ### 📬 Contato
 
-Se quiser bater um papo ou colaborar em algo, me chama por aqui mesmo!  
-✉️ Em breve também no LinkedIn!
+Se quiser entrar em contato comigo ou colaborar em algo, me chama em alguma de minhas redes sociais!
+- [LinkedIn](www.linkedin.com/in/thomarco)
 
 ---
 
