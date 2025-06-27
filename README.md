@@ -1,7 +1,7 @@
 <h1 align="center">Opa, eu sou o Cauã Thomarco</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visualizações-+100-blueviolet" alt="visualizacoes-estaticas" />
+  <img src="https://komarev.com/ghpvc/?username=CauaThomarco&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile-views" />
   <img src="https://img.shields.io/github/followers/CauaThomarco?label=Seguidores&style=social" />
   <img src="https://img.shields.io/github/stars/CauaThomarco?label=Stars&style=social" />
 </p>
