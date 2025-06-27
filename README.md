@@ -1,7 +1,7 @@
 <h1 align="center">Opa, eu sou o Cauã Thomarco</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CauaThomarco&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/badge/Visualizações-+100-blueviolet" alt="visualizacoes-estaticas" />
   <img src="https://img.shields.io/github/followers/CauaThomarco?label=Seguidores&style=social" />
   <img src="https://img.shields.io/github/stars/CauaThomarco?label=Stars&style=social" />
 </p>
@@ -16,10 +16,10 @@
 
 ### 📊 Estatísticas Gerais
 
-- 🔢 **Repositórios públicos**: 2
-- 📈 **Contribuições nos últimos 12 meses**: 21
+- 🔢 **Repositórios públicos**: 2  
+- 📈 **Contribuições nos últimos 12 meses**: 21  
 - 📂 **Projetos principais**:
-  - [FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) – site de Denuncia de Queimadas usando HTML, CSS, JS e JSON Server
+  - [FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) – site de denúncia de queimadas usando HTML, CSS, JS e JSON Server
 
 ---
 
@@ -57,8 +57,8 @@
 
 ### 📬 Contato
 
-Se quiser entrar em contato comigo ou colaborar em algo, me chama em alguma de minhas redes sociais!
-- [LinkedIn](www.linkedin.com/in/thomarco)
+Se quiser entrar em contato comigo ou colaborar em algo, me chama em alguma de minhas redes sociais!  
+- [LinkedIn](https://www.linkedin.com/in/thomarco)
 
 ---
 
