@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Cauã Thomarco 👋</h1>
+<h1 align="center">Opa, eu sou o Cauã Thomarco</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CauaThomarco&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile-views" />
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/CauaThomarco?label=Stars&style=social" />
 </p>
 
-<img align="right" src="foto.png" width="200" alt="Foto de Cauã Thomarco" style="border-radius: 50%;" />
+<img align="right" src="assets/img/CauãThomarco.jpg" width="200" alt="Foto de Cauã Thomarco" style="border-radius: 50%;" />
 
 🎓 Estudante de **Engenharia de Software** na **PUC Minas** – 1º período  
 💡 Interessado em desenvolvimento web, lógica de programação, sistemas numéricos e engenharia de software  
@@ -19,7 +19,7 @@
 - 🔢 **Repositórios públicos**: 2 (e crescendo!)
 - 📈 **Contribuições nos últimos 12 meses**: 21
 - 📂 **Projetos principais**:
-  - [ProjetoWEBPuc1](https://github.com/CauaThomarco/ProjetoWEBPuc1) – site de notícias usando HTML, CSS, JS e JSON Server
+  - [FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) – site de Denuncia de Queimadas usando HTML, CSS, JS e JSON Server
 
 ---
 
