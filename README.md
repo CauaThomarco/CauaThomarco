@@ -20,7 +20,7 @@
 - 📈 **Contribuições nos últimos 12 meses**: 21  
 - 📂 **Projetos principais**:
   - [FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) – site de denúncia de queimadas usando HTML, CSS, JS e JSON Server
-  - [CRUD Mercadorias](https://github.com/cleverson-programmer/SistemaLogistica-SLEM)
+  - [CRUD Mercadorias](https://github.com/cleverson-programmer/SistemaLogistica-SLEM) - O sistema de Logística de Entrega de Mercadorias (SLEM)
 ---
 
 ### 🛠️ Tecnologias que domino ou tenho experiência
