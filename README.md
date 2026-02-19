@@ -38,7 +38,7 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [🔥 FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) | Site de denúncia de queimadas | HTML, CSS, JS, JSON Server |
-| [📦 SLEM](https://github.com/cleverson-programmer/SistemaLogistica-SLEM) | Sistema de Logística de Entrega de Mercadorias | — |
+| [📦 SLEM](https://github.com/cleverson-programmer/SistemaLogistica-SLEM) | Sistema de Logística de Entrega de Mercadorias | C++ |
 | [🏨 Hotel Descanso Garantido](https://github.com/CauaThomarco/Hotel-Descanso-Garantido.git) | Sistema de gerenciamento de hotel | C++ |
 
 ---
