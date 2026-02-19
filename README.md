@@ -21,7 +21,7 @@
 - 📂 **Projetos principais**:
   - [FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) – site de denúncia de queimadas usando HTML, CSS, JS e JSON Server
   - [CRUD Mercadorias](https://github.com/cleverson-programmer/SistemaLogistica-SLEM) - O sistema de Logística de Entrega de Mercadorias (SLEM)
-  - [Hoteç Descanso Garantido](https://github.com/CauaThomarco/Hotel-Descanso-Garantido.git)  - Sistema de gerenciamento de um Hotel em C++
+  - [Hotel Descanso Garantido](https://github.com/CauaThomarco/Hotel-Descanso-Garantido.git)  - Sistema de gerenciamento de um Hotel em C++
 ---
 
 ### 🛠️ Tecnologias que domino ou tenho experiência
