@@ -21,6 +21,7 @@
 - 📂 **Projetos principais**:
   - [FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) – site de denúncia de queimadas usando HTML, CSS, JS e JSON Server
   - [CRUD Mercadorias](https://github.com/cleverson-programmer/SistemaLogistica-SLEM) - O sistema de Logística de Entrega de Mercadorias (SLEM)
+  - [Hoteç Descanso Garantido](https://github.com/CauaThomarco/Hotel-Descanso-Garantido.git)  - Sistema de gerenciamento de um Hotel em C++
 ---
 
 ### 🛠️ Tecnologias que domino ou tenho experiência
@@ -34,9 +35,7 @@
 #### 🧠 Lógica de Programação e Algoritmos
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### ⚙️ Ferramentas e Softwares
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
