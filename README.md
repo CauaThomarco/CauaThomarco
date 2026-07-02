@@ -40,8 +40,8 @@
 | [🔥 FireShield](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2401100-fireshield.git) | Site de denúncia de queimadas | HTML, CSS, JS, JSON Server |
 | [📦 SLEM](https://github.com/cleverson-programmer/SistemaLogistica-SLEM) | Sistema de Logística de Entrega de Mercadorias | C++ |
 | [🏨 Hotel Descanso Garantido](https://github.com/CauaThomarco/Hotel-Descanso-Garantido.git) | Sistema de gerenciamento de hotel | C++ |
-| [🏠 StayHub](https://github.com/Programacao-Modular-PUC/trabalho-pratico-stayhub.git) |Sistema de aluguel | Java + SpringBoot + PostgreSQL |
-| [🌸 Jardim Magnólia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-1-ti2-3740100-magnolia.git) | Sistema WEB - E-comerce - Floricultura | Java + SpringBoot + PostgreSQL |
+| [🏠 StayHub](https://github.com/Programacao-Modular-PUC/trabalho-pratico-stayhub.git) |Sistema de aluguel | HTML + CSS + Java + SpringBoot + PostgreSQL |
+| [🌸 Jardim Magnólia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-1-ti2-3740100-magnolia.git) | Sistema WEB - E-comerce - Floricultura |HTML + CSS + REACT + Java + SpringBoot + PostgreSQL |
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
