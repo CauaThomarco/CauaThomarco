@@ -42,7 +42,7 @@
 | [🏨 Hotel Descanso Garantido](https://github.com/CauaThomarco/Hotel-Descanso-Garantido.git) | Sistema de gerenciamento de hotel | C++ |
 | [🏠 StayHub](https://github.com/Programacao-Modular-PUC/trabalho-pratico-stayhub.git) |Sistema de aluguel | HTML + CSS + JavaScript + Java + SpringBoot + PostgreSQL |
 | [🌸 Jardim Magnólia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-1-ti2-3740100-magnolia.git) | Sistema WEB - E-comerce - Floricultura |HTML + CSS + JavaScript + REACT + Java + SpringBoot + PostgreSQL |
-| [🌸 Ponta da Represa][(https://pontadarepresa.com.br/)) | Sistema WEB - Hospoedagem - Chalés |HTML + CSS + JavaScript + React 19 + Vite 7 + TypeScript (estrito) + Tailwind v4 + Framer Motion + PostgreSQL + Java + SpringBoot |
+| [🌸 Ponta da Represa](https://pontadarepresa.com.br/) | Sistema WEB - Hospoedagem - Chalés |HTML + CSS + JavaScript + React 19 + Vite 7 + TypeScript (estrito) + Tailwind v4 + Framer Motion + PostgreSQL + Java + SpringBoot |
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
